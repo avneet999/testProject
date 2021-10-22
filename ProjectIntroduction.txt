@@ -1,1 +1,1 @@
-Lorem ipsum for the project document.
+The project is a Shoe Laundry App, where you can send your shoes for laundry, your shoes will be returned from the laundry after a day i.e. same day laundry and delivery. This app helps you schedule the pick-up date for the laundry.
